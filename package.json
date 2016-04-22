@@ -1,0 +1,19 @@
+{
+  "name": "facebook-bot",
+  "version": "1.0.0",
+  "description": "Facebook Messenger Bot Node.js Template",
+  "engines": {
+    "node": "5.9.1"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "elaniin",
+  "dependencies": {
+    "express": "latest",
+    "body-parser": "^1.15.0",
+    "request": "^2.71.0"
+  }
+}
+
